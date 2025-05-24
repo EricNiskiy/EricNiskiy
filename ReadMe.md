@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de ciência da computação e servidor público municipal da prefeitura de Diadema<br>🤝
+🔭 Sou estudante de ciência da computação na Universidade Federal do ABC (UFABC) e servidor público municipal da prefeitura de Diadema<br>🤝
 
 
 ## 🌐 Socials:
