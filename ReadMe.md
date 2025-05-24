@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de ciência da computação na Universidade Federal do ABC (UFABC)<br>🌟Integrante da SIRIUS UFABC<br>🏛servidor público municipal da prefeitura de Diadema
+🔭Estudante de ciência da computação na Universidade Federal do ABC (UFABC)<br>🌟Integrante da SIRIUS UFABC<br>🏛servidor público municipal da prefeitura de Diadema
 
 
 ## 🌐 Socials:
