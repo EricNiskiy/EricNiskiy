@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de ciência da computação<br>🤝 Estou a procura de estágio
+🔭 Sou estudante de ciência da computação e servidor público municipal da prefeitura de Diadema<br>🤝
 
 
 ## 🌐 Socials:
