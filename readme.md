@@ -14,11 +14,13 @@ Me chamo Eric Davi Castro Frazão, tenho 21 anos e sou de São Paulo capital. Co
   </a>
 </div>
 
-# 🛠️ Language and tools 
-<img src="icons/Arduino.svg" height=40 alt="arduino logo"> 
-<img src="icons/C.svg" height=40 alt="C language logo"> 
-<img src="icons/CSS.svg" height=40 alt="Cascate Style Sheets logo"> 
-<img src="icons/HTML.svg" height=40 alt="Hyper Text Markup Language logo"> 
-<img src="icons/Python-Dark.svg" height=40 alt="Python language logo"> 
-<img src="icons/sql-database-generic-svgrepo-com.svg" height=40 alt="Structure Query language logo"> 
-<img src="icons/VSCode-Dark.svg" height=40 alt="Visual Studio Code logo">
+## 🛠️ Language and tools 
+<div align="center">
+  <img src="icons/Arduino.svg" height="40" alt="Arduino logo">
+  <img src="icons/C.svg" height="40" alt="C language logo">
+  <img src="icons/CSS.svg" height="40" alt="CSS logo">
+  <img src="icons/HTML.svg" height="40" alt="HTML logo">
+  <img src="icons/Python-Dark.svg" height="40" alt="Python logo">
+  <img src="icons/sql-database-generic-svgrepo-com.svg" height="40" alt="SQL logo">
+  <img src="icons/VSCode-Dark.svg" height="40" alt="Visual Studio Code logo">
+</div>
