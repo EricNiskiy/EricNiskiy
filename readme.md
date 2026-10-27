@@ -7,7 +7,8 @@ Me chamo Eric Davi Castro Frazão, tenho 21 anos e sou de São Paulo capital. Co
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/ericcasf2005%40gmail.com-white?style=for-the-badge&logo=gmail&logoSize=40&labelColor=white&color=D14836)
-![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=White&logoSize=30&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feric-fraz%25C3%25A3o%2F)
+<a href="https://www.linkedin.com/in/eric-fraz%C3%A3o/" target="_blank">
+![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=40&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Feric-fraz%25C3%25A3o%2F)</a>
 
 </div>
 
