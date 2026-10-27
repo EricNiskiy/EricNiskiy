@@ -6,10 +6,6 @@ Me chamo Eric Davi Castro Frazão, tenho 21 anos e sou de São Paulo capital. Co
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/eric-fraz%C3%A3o/"><img src="linkedin.png" height=25></a>
-  <a href="ericcasf2005" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=ericcasf2005&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
-  </a>
-<a href="https://wa.me/qr/Q2ROEEVIE7TNC1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
+  <a href="ericcasf2005" target="_blank"><img src="https://img.shields.io/static/v1?message=ericcasf2005&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/></a>
+  <a href="https://wa.me/qr/Q2ROEEVIE7TNC1" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"/></a>
 </div>
