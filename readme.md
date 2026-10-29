@@ -2,7 +2,7 @@
 
 **Estudante de Ciência da Computação em busca de estágio em desenvolvimento**
 
-Me chamo Eric Davi Castro Frazão, tenho 21 anos e sou de São Paulo capital. Concluí meu ensino médio, com curso técnico em eletrotécnica, na ETEC Jaraguá, atualmente curso Interdisciplinar em Ciência e Tecnologia junto de Ciência da Computação na Universidade Federal do ABC (UFABC). Minha paixão é a tecnologia, sobretudo o desenvolvimento de sistemas e aplicações e tenho como objetivo construir uma carreira profissional sólida e experiente como desenvolvedor.
+Me chamo Eric Davi Castro Frazão, tenho 21 anos e sou de São Paulo capital. Concluí meu ensino médio, com curso técnico em eletrotécnica, na ETEC Jaraguá, atualmente curso Interdisciplinar em Ciência e Tecnologia junto de Ciência da Computação na Universidade Federal do ABC (UFABC). Minha paixão é a tecnologia, em especial o desenvolvimento de sistemas e aplicações e tenho como objetivo construir uma carreira profissional sólida e experiente como desenvolvedor.
 
 <div align="center">
 
